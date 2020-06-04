@@ -1,6 +1,7 @@
 # Advanced Prediction Techniques: Capstone Challenge
 
 This repo contains all the details and code for the Udacity Data Scientist Nanodegree Capstone Project
+Link to medium post:[here] (https://medium.com/@riteshbehera123/advanced-regression-analysis-to-predict-sales-price-of-house-fa95e699efa2)
 
 ### Table of Contents
 
